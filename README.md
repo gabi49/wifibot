@@ -1,2 +1,2 @@
-# wifibot
-projet de telecommande d'un robot par wifi à travers une interface graphique
+# Wifibot
+Projet de télécommande d'un Wifibot à travers une interface graphique.
